@@ -1,0 +1,9 @@
+rgba(255, 20, 146, 1.0); rosado rgb
+#ff1492 rosado hex
+#FF2F92 fondo rosado hex
+#E61283 rosado disable hex
+rgba(186, 15, 129, 1.0) rosado disable rgb 
+
+#f4623a naranjo hex
+#e23a0d naranjo disable hex
+rgba(244, 98, 58, 0.25) naranjo rgb
