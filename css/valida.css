@@ -4,9 +4,10 @@ body {
 
 input {
     float: left;
-    width: 200px;
+    
     margin-bottom: 10px;
 }
+
 
 label {
     clear: both;
@@ -35,3 +36,4 @@ label.error {
 #formulario button{
     min-width: 100px;
 }
+
